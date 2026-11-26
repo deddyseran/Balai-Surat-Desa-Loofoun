@@ -1,0 +1,6 @@
+{
+  "name": "Balai Surat Desa Loofoun",
+  "description": "Aplikasi layanan surat masuk dan keluar Desa Loofoun, Kecamatan Malaka Barat, Kabupaten Malaka berbasis Google Drive yang mudah diakses masyarakat lewat ponsel untuk membuat, mengunduh Word/PDF, dan mencetak surat mandiri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
